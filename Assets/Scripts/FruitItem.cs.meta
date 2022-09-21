@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e517095128a4ea43a84497a12defc4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fruitSpriteObj: {instanceID: 0}
+  - BoSound: {fileID: 8300000, guid: 609085d3264fb0f46a8d4ce8e5b11da2, type: 3}
+  - DiSound: {fileID: 8300000, guid: 9342b92647a7a0b4c8b9373f2bbbb5ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
